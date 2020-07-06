@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@456&family=Open+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@import '@/styles/bulma';
+
+@import '@/styles/typo';
+
+h1 {
+  font-family: 'Road Rage', cursive;
+  color: #73f7e5;
+  font-size: 4rem;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 56px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Xirod', cursive;
+}
+
+li {
+  font-size: 24px;
+}
+
+p,
+li,
+a,
+span {
+  font-family: 'Roboto', sans-serif;
+}

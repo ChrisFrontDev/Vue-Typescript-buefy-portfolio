@@ -1,0 +1,14 @@
+// Set your colors
+$primary: #73f7e5;
+$primary-invert: findColorInvert($primary);
+$twitter: #4099ff;
+$twitter-invert: findColorInvert($twitter);
+
+// Links
+$link: $primary;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+//body
+$body-background-color: #160b31;
+$body-color: #fff;
